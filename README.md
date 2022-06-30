@@ -11,3 +11,5 @@
 [![vk](https://img.shields.io/badge/vk-181818?style=for-the-badge&logo=vk)](https://vk.com/sam_tema_one)
 [![Discord](https://img.shields.io/badge/discord-181818?style=for-the-badge&logo=discord)](https://discordapp.com/users/323393725927653378/)
 [![Itch](https://img.shields.io/badge/Itch-181818?style=for-the-badge&logo=itch.io)](https://kiefe.itch.io/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemSamarskiy&show_icons=true)

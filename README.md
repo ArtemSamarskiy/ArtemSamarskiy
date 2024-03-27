@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiefe&label=Profile%20views&color=0e75b6&style=flat" alt="kiefe" /> </p>
 
-- 🔭 I’m currently working on **Parkour Master 3**
+- 🔭 I’m currently working on **Creatopico website**
 
-- 👯 I’m looking to collaborate on [SPWorld](https://spworlds.ru)
+- 👯 I’m looking to collaborate on [Yandex](https://yandex.ru)
 
 - 👨‍💻 All of my projects are available at [https://kiefe.ru](https://kiefe.ru)
 
